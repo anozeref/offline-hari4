@@ -1,3 +1,4 @@
+//push-pop
 var arr=['ade','asep', 'agus'];
 var i=0;
 while (i<3) {
