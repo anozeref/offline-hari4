@@ -16,7 +16,6 @@ if (pilih === 'Iqbal') {
     suara.push(pilih);
   } else {
     alert('Calon Tidak terdaftar');
-    i--;
   }
 }
 alert('Semua Orang Telah Memilih');
